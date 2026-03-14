@@ -1,6 +1,12 @@
 # Hackathon 5 — Customer Success Digital FTE
 ### Stage 1 Prototype
 
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![Tests](https://img.shields.io/badge/tests-36%20passing-brightgreen)
+![Stage](https://img.shields.io/badge/hackathon-stage%201-orange)
+![Project](https://img.shields.io/badge/project-AI%20Customer%20Success%20Agent-purple)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 **Project Owner:** Mehreen Asghar
 **Stage:** 1 — Prototype Foundation Only
 **Hackathon:** Hackathon 5
