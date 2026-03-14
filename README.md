@@ -13,13 +13,14 @@
 
 ---
 
-## 🎥 Demo
+## 🎥 Stage 1 Demo Video
 
-A short demonstration of the Stage 1 prototype:
+A short demonstration of the Stage 1 prototype.
 
-**Demo Video:** (link will be added here)
+[![Watch the Stage 1 Demo](https://img.youtube.com/vi/2OOTgwk_P6I/maxresdefault.jpg)](https://www.youtube.com/watch?v=2OOTgwk_P6I)
 
 The demo shows:
+
 - simulated Gmail inquiry
 - WhatsApp support request
 - Web form ticket
