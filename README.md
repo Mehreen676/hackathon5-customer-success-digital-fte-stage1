@@ -13,6 +13,22 @@
 
 ---
 
+## 🎥 Demo
+
+A short demonstration of the Stage 1 prototype:
+
+**Demo Video:** (link will be added here)
+
+The demo shows:
+- simulated Gmail inquiry
+- WhatsApp support request
+- Web form ticket
+- escalation detection
+- knowledge base lookup
+- channel-specific response formatting
+
+---
+
 ## Problem Statement
 
 Customer success teams at SaaS companies spend the majority of their time answering repetitive, routine inquiries — billing questions, password resets, refund requests, and basic how-to questions. These consume agent time that should be reserved for complex, high-value customer relationships.
